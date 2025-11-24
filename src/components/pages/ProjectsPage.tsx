@@ -191,10 +191,7 @@ export function ProjectsPage() {
                   <Input placeholder="e.g., 3 months, 6 months" />
                 </div>
 
-                <div>
-                  <label className="text-sm font-medium">Budget/Stipend</label>
-                  <Input placeholder="e.g., ₹30,000" />
-                </div>
+                
               </div>
 
               {/* LOCATION */}
