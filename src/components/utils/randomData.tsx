@@ -1,17 +1,46 @@
 // Utility functions for generating randomized dummy data
 
 export const randomNames = [
-  "Dr. Sarah Johnson", "Prof. Michael Chen", "Dr. Emily Rodriguez", "Dr. James Wilson",
-  "Prof. Lisa Zhang", "Dr. Robert Kumar", "Dr. Maria Garcia", "Prof. David Kim",
-  "Dr. Jennifer Lee", "Prof. Ahmed Hassan", "Dr. Sophie Wilson", "Dr. Alex Thompson",
-  "Prof. Rachel Green", "Dr. Mark Davis", "Prof. Priya Sharma", "Dr. Carlos Martinez"
+  "Dr. Anjali Mehra",
+  "Prof. Rohit Khanna",
+  "Dr. Priyanka Bansal",
+  "Dr. Rajeev Malik",
+  "Prof. Kavita Sharma",
+  "Dr. Vikas Bhatia",
+  "Dr. Neha Tandon",
+  "Prof. Sandeep Chauhan",
+  "Dr. Ritu Verma",
+  "Prof. Manoj Goyal",
+  "Dr. Shalini Kapoor",
+  "Dr. Amit Arora",
+  "Prof. Nisha Gupta",
+  "Dr. Harish Yadav",
+  "Prof. Meenakshi Singh",
+  "Dr. Deepak Ahuja"
 ];
 
 export const randomStudentNames = [
-  "Alex Thompson", "Maria Garcia", "David Kim", "Sophie Wilson", "James Brown",
-  "Emma Davis", "Michael Johnson", "Sarah Lee", "Daniel Rodriguez", "Lisa Chen",
-  "Matthew Wilson", "Jessica Martinez", "Ryan Taylor", "Ashley Garcia", "Kevin Liu",
-  "Amanda Smith", "Tyler Johnson", "Nicole Brown", "Brandon Lee", "Stephanie Kim"
+  "Mohini",
+  "Tannu",
+  "Ritesh Kumar Jha",
+  "Nibha Kumari",
+  "Satwik Mishra",
+  "Hitesh Singh",
+  "Jaskaran Dhillon",
+  "Khushal",
+  "Geeta Bhatt",
+  "Abhinay Kumar",
+  "Brajesh Kumar",
+  "Rishav Kumar",
+  "Ayaan Ur Rehman",
+  "Sandeep Rajmania",
+  "Tanishq",
+  "Ajay Kumar",
+  "Ankur Dhanda",
+  "Tanishq",          // duplicate kept as provided
+  "Rohan Verma",
+  "Priya Singh",
+  "Aditya Sharma"
 ];
 
 export const randomProjectTitles = [
